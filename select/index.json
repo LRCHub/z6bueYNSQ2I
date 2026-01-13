@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "SMILEY-Japanese Ver.-",
+  "base_artist": "YENA",
+  "createdAt": "2026-01-13T22:33:44.348570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SMILEY -Japanese Ver.- (feat. ちゃんみな)",
+      "artist": "YENA",
+      "has_synced": true,
+      "path": "select/01_SMILEY_-Japanese_Ver.-_(feat._ちゃんみな)_YENA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SMILEY-Japanese Ver.-",
+      "artist": "YENA feat. Chanmina",
+      "has_synced": true,
+      "path": "select/02_SMILEY-Japanese_Ver.-_YENA_feat._Chanmina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SMILEY-Japanese Ver.- (feat.ちゃんみな)",
+      "artist": "YENA; CHANMINA",
+      "has_synced": true,
+      "path": "select/03_SMILEY-Japanese_Ver.-_(feat.ちゃんみな)_YENA;_CHANMINA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SMILEY-Japanese Ver.- (feat.ちゃんみな)",
+      "artist": "YENA",
+      "has_synced": true,
+      "path": "select/04_SMILEY-Japanese_Ver.-_(feat.ちゃんみな)_YENA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SMILEY-Japanese Ver.-",
+      "artist": "YENA",
+      "has_synced": false,
+      "path": "select/05_SMILEY-Japanese_Ver.-_YENA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SMILEY-Japanese Ver.- (feat.ちゃんみな)",
+      "artist": "YENA, ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_SMILEY-Japanese_Ver.-_(feat.ちゃんみな)_YENA,_ちゃんみな.txt"
+    }
+  ]
+}
